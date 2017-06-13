@@ -1,3 +1,4 @@
+redirected from [here](http://www.1point3acres.com/bbs/thread-208829-1-1.html)
 [![logo](imgs/systemcycle.png)](https://github.com/checkcheckzz/system-design-interview)
 
 > How to prepare system design questions for an IT company
@@ -62,6 +63,8 @@ a good collection of material about [distributed systems](http://dancres.github.
 
 If you are going to have an onsite with a company, you should read their engineering blog. 
 
+* [Google Research Blog](http://googleresearch.blogspot.com/)
+* [Indeed Engineer Blog](http://engineering.indeedblog.com/blog/)
 * [High Scalability](http://highscalability.com/)
 * [The GitHub Blog](https://github.com/blog/category/engineering)
 * [Engineering at Quora](http://engineering.quora.com/)
@@ -87,7 +90,6 @@ If you are going to have an onsite with a company, you should read their enginee
 * [THE REDDIT BLOG](http://www.redditblog.com/)
 * [Groupon Engineering Blog](https://engineering.groupon.com/)
 * [Songkick Technology Blog](http://devblog.songkick.com/)
-* [Google Research Blog](http://googleresearch.blogspot.com/)
 * [Pinterest Engineering Blog](http://engineering.pinterest.com/)
 * [Twilio Engineering Blog](http://www.twilio.com/engineering)
 * [Bitly Engineering Blog](http://word.bitly.com/)
